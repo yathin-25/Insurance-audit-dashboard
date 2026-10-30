@@ -8,10 +8,6 @@ An enterprise-grade, full-stack insurance audit and compliance dashboard featuri
 
 ---
 
-## 📸 Dashboard Preview
-
-*Drop your screenshots inside a `screenshots/` folder in your project repository, and they will render right here on your GitHub page!*
-
 ### 1. Main Dashboard & Analytics Overview
 ![Dashboard Overview](screenshots/dashboard-overview.png)
 
