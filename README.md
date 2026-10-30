@@ -1,6 +1,6 @@
 <img width="960" height="474" alt="Screenshot 2026-10-29 105949" src="https://github.com/user-attachments/assets/76f15cd6-106b-4007-817f-89144579c106" />
-<img width="960" height="509" alt="Screenshot 2026-10-29 112102" src="https://github.com/user-attachments/assets/d8bbe4b9-c78e-4c4a-ab51-5a66f667f9f3" />
 <img width="960" height="513" alt="Screenshot 2026-10-29 112058" src="https://github.com/user-attachments/assets/d04adfb7-1211-4f2b-9607-b0b4147e2b01" />
+<img width="960" height="509" alt="Screenshot 2026-10-29 112102" src="https://github.com/user-attachments/assets/d8bbe4b9-c78e-4c4a-ab51-5a66f667f9f3" />
 
 # 🛡️ Enterprise Insurance Audit & Compliance Dashboard
 
