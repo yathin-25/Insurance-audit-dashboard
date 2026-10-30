@@ -1,6 +1,7 @@
-<img width="960" height="540" alt="Screenshot 2026-10-29 160825" src="https://github.com/user-attachments/assets/b7d44f3f-60e0-4ffe-bc87-8d7517b91ff7" />
-<img width="960" height="540" alt="Screenshot 2026-10-30 101913" src="https://github.com/user-attachments/assets/3997dc49-d5d0-4ed8-aaec-71c9894ad2c3" />
-<img width="960" height="540" alt="Screenshot 2026-10-29 171436" src="https://github.com/user-attachments/assets/c694ca31-03bd-46ad-a934-351f2ac11d65" />
+<img width="960" height="474" alt="Screenshot 2026-10-29 105949" src="https://github.com/user-attachments/assets/76f15cd6-106b-4007-817f-89144579c106" />
+<img width="960" height="509" alt="Screenshot 2026-10-29 112102" src="https://github.com/user-attachments/assets/d8bbe4b9-c78e-4c4a-ab51-5a66f667f9f3" />
+<img width="960" height="513" alt="Screenshot 2026-10-29 112058" src="https://github.com/user-attachments/assets/d04adfb7-1211-4f2b-9607-b0b4147e2b01" />
+
 # 🛡️ Enterprise Insurance Audit & Compliance Dashboard
 
 An enterprise-grade, full-stack insurance audit and compliance dashboard featuring a rule-based deterministic risk engine paired with a modern React frontend for real-time claim analytics, automated data underwriting, and circuit breaker metrics.
