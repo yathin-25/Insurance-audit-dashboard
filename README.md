@@ -8,13 +8,6 @@ An enterprise-grade, full-stack insurance audit and compliance dashboard featuri
 
 ---
 
-### 1. Main Dashboard & Analytics Overview
-![Dashboard Overview](screenshots/dashboard-overview.png)
-
-### 2. Claims Underwriting & Risk Evaluation
-![Claims Underwriting](screenshots/claims-underwriting.png)
-
----
 
 ## 🚀 Key Features
 
